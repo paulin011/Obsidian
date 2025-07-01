@@ -1,0 +1,2 @@
+Der KQ-Schätzer βˆist der beste lineare erwartungstreue Schätzer für β. Man sagt auch βˆist BLUE (best linear unbiased estimator).
+Unter der zusätzlichen Annahme normalverteilter Störterme ist βˆ sogar der beste erwartungstreue Schätzer (BUE) für β.

@@ -1,0 +1,1 @@
+Deontologische Ethik oder Deontologie bezeichnet eine Klasse von ethischen Theorien, die den moralischen Status einer Handlung nicht anhand ihrer Konsequenzen bestimmen. Bestimmte Handlungen können daher als intrinsisch gut oder schlecht bezeichnet werden. [Wikipedia](https://de.wikipedia.org/wiki/Deontologische_Ethik)

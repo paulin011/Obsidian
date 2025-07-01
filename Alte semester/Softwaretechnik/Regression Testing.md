@@ -1,0 +1,1 @@
+![[Alte semester/Softwaretechnik/Images/Pasted image 20231211114830.png]]

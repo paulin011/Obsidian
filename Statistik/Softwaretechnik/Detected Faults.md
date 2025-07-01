@@ -1,0 +1,1 @@
+![[Statistik/Softwaretechnik/Images/Pasted image 20231211112929.png]]

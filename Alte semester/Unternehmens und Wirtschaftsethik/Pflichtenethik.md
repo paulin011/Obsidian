@@ -1,0 +1,3 @@
+Pflichtenethik, auch deontologische Ethik (von gr. to deon "Das Notwendige") genannt, ist eine ethische Theoriebildung, die sich vor allem mit der Frage auseinandersetzt: "Was soll ich tun?" Mit dem Begriff der Pflicht liegt der Fokus auf einer regulierenden Norm, die einer Handlung als Prinzip zu Grunde liegt. Prominentester Vertreter eines pflichtenethischen Ansatzes ist Immanuel [[Kant]].
+
+Man darf den menschen nie als Mittel sondern immer als zweck behandeln

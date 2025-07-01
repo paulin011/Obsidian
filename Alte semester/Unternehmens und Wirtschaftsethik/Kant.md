@@ -1,0 +1,2 @@
+[[Deontologisch]] 
+[[Pflichtenethik]] 

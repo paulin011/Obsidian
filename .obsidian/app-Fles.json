@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Images",
+  "newFileLocation": "current",
+  "readableLineLength": false,
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "ofessionals"
+  ],
+  "propertiesInDocument": "hidden"
+}

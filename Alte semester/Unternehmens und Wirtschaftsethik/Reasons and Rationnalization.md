@@ -1,0 +1,1 @@
+Es ist wichtig die typischen argumente und ausflüchte für unethisches verhalten zu kennen und strategien zu entwickeln auf diese mit passenden argunenten zu reagieren.

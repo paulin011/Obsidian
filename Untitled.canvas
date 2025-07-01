@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"f1ae489c9145639e","x":-370,"y":4,"width":400,"height":400,"type":"file","file":"Alte semester/Images/20240222_Do_Uebung_4_Entropie.pdf"},
+		{"id":"eaee99f99b4e7008","x":75,"y":4,"width":400,"height":400,"type":"file","file":"Alte semester/Images/20240222_Do_Uebung_5_Forensik.pdf"},
+		{"id":"5339050114ace12d","x":520,"y":4,"width":400,"height":400,"type":"file","file":"Alte semester/Images/Belastbare Gutachten.pdf"},
+		{"id":"a6b9002694684872","x":-370,"y":449,"width":400,"height":400,"type":"file","file":"Alte semester/Images/Tag4_02-IT-Forensik_Printversion.pdf"},
+		{"id":"5f28c89fbd0a8d3c","x":75,"y":449,"width":400,"height":400,"type":"file","file":"Alte semester/Images/Tag4_04-IPv4IPv6Netzwerksicherheit_Printversion.pdf"},
+		{"id":"2f0abfc7120084b2","x":520,"y":449,"width":400,"height":400,"type":"file","file":"Alte semester/Images/02-DSGVO UK-150224.pdf"},
+		{"id":"e74c6ab025f9a040","x":965,"y":4,"width":400,"height":400,"type":"file","file":"Alte semester/Images/Klausur_ITSF_Uebungsklausur.pdf"},
+		{"id":"aa9608d92c3024d4","x":965,"y":449,"width":400,"height":400,"type":"file","file":"Alte semester/Images/20240215_Do_Uebung_1_Kryptographie (1).pdf"},
+		{"id":"f19a8b2370bc903a","x":1410,"y":4,"width":400,"height":400,"type":"file","file":"Alte semester/Images/Tag2_01-AuthentifikationUndDigitaleIdentitaeten_Printversion.pdf"},
+		{"id":"7657000dfac3c186","x":1410,"y":449,"width":400,"height":400,"type":"file","file":"Alte semester/Images/20240215_Do_Uebung_1_Kryptographie.pdf"},
+		{"id":"100eecbd8101a339","x":1855,"y":4,"width":400,"height":400,"type":"file","file":"Alte semester/Images/Tag2_02-SicherheitsmodelleUndZugriffskontrolle_Printversion.pdf"},
+		{"id":"574b9dcc4fbb540f","x":1855,"y":449,"width":400,"height":400,"type":"file","file":"Alte semester/Images/20240217_Sa_Uebung_2_Websicherheit.pdf"},
+		{"id":"e131b0207ee7f8dd","x":2300,"y":4,"width":400,"height":400,"type":"file","file":"Alte semester/Images/Tag3_01-Web-Security_Printversion.pdf"},
+		{"id":"9f7d1248192568c2","x":2745,"y":4,"width":400,"height":400,"type":"file","file":"Alte semester/Images/Tag3_02-GrundlagenSichererSoftwareentwicklung_Printversion.pdf"},
+		{"id":"73047563bd5558d5","x":2300,"y":449,"width":400,"height":400,"type":"file","file":"Alte semester/Images/20240222_Do_Uebung_3_Buffer_Overflow.pdf"},
+		{"id":"7ddfe56751dc359d","x":3190,"y":4,"width":400,"height":400,"type":"file","file":"Alte semester/Images/Tag3_03_Kryptographie.pdf"},
+		{"id":"7ea89a7daee764ba","x":3635,"y":4,"width":400,"height":400,"type":"file","file":"Alte semester/Images/Tag4_01-IncidentResponse_Printversion.pdf"},
+		{"id":"a86f8bb9fe89bba2","x":1410,"y":-120,"width":250,"height":60,"type":"text","text":"DONE"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,1 @@
+Größter nutzen insgesamt rechnerisch alle beteiligten auch wenn eine person ungleich viel profitiert

@@ -1,0 +1,1 @@
+Giving Voice to Values (GVV) is **an innovative approach to values-driven leadership development in business education and the workplace**.

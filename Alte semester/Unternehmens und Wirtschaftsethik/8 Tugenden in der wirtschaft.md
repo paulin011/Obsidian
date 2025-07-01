@@ -1,0 +1,8 @@
+1. Universalität: die Bereitschaft, mit anderen gleichberechtigt Geschäfte zum gegenseitigen Nutzen zu machen, wer auch immer diese anderen sein mögen
+2.  Unternehmergeist: Der Drang zu erkunden und vorherzusagen, was andere Menschen wollen und bereit sind, dafür zu bezahlen. (benötigt Emphatie und Ideenreichtum) 
+3. Respekt/Toleranz für die Präferenzen anderer: das zu produzieren/ anzubieten, was die Kunden wollen, nicht das, was man selbst will (liberale Denkweise)
+4. Vertrauen und Vertrauenswürdigkeit: kein Betrug, Lügen, etc. von eigener Seite. Vertrauen in die Ehrlichkeit des anderen. 
+5. Akzeptanz von (fairem) Wettbewerb: Ein tugendhafter Händler wird nicht versuchen, sich auf unfaire Weise vor Wettbewerb zu schützen oder seine Produkte als qualitativ besser oder billiger zu vermarkten, als sie tatsächlich sind. Keine Bestechung oder Korruption.
+6. Akzeptanz der Reziprozität wirtschaftlicher Beziehungen (“Selbsthilfe”): Akzeptiere klaglos, dass andere nur dann motiviert sind, deine Bedürfnisse zu befriedigen, wenn du ihnen etwas anbietest, das sie im Gegenzug gebrauchen können.
+7. Keine Rivalität: nicht neidisch auf die Gewinne anderer sein, am Gewinn anderer Menschen erfreuen, kein “Status-Wettbewerb” 
+8. Stoizismus in Bezug auf Geld: eine ruhige und rationale Herangehensweise an Geld/monetäre Entlohnungen. Geld ist ein Medium für den gegenseitigen Handel, kein Selbstzweck.

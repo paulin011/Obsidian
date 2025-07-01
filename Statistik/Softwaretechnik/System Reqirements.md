@@ -1,0 +1,1 @@
+System requirements describe how a system shall work and behave – as observed at the interface between the system and its environment – so that the system satisfies its stakeholders’ desires and needs. In the case of pure software systems, we speak of software requirements.

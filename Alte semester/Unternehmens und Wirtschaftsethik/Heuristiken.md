@@ -1,0 +1,1 @@
+Mentale Strategien , Faustregeln oder Abkürzungen die helfen mit Begrenztem wissen und zeit bestmögliche Entscheidungen zu treffen und zu Urteilen.

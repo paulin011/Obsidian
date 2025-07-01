@@ -1,0 +1,1 @@
+{"path":"Alte semester/Images/Pasted image 20241204131424.png","text":"Periodische Zeitreihen - Sequenzbaum ®° Erzeugung des Baumes * 1,0,2,3,5,2,0,1,3,5,4,3 > a,a,b,b,c,b,a,a,b,c,c,b ®° Berechnung von Sequenzen ° 1Sequenz: Buchstabe+Anzahl a ® 2 Sequenz: 2 Buchstaben+Anzahl C Y a aa 2 ab 2 c a 4 ac 0 C a b 5 ba 1 C c 3 bb 1 cc 1 SM","libVersion":"0.3.2","langs":"deu+eng"}

@@ -1,0 +1,4 @@
+- Nominal
+- Ordinal 
+- Quantitativ - diskret
+- Quantitativ - kontinuierlich

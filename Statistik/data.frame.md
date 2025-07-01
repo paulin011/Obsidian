@@ -1,0 +1,1 @@
+punkt Prognose an einem oder mehreren punkten übergeben (hier werbeaufwand) 

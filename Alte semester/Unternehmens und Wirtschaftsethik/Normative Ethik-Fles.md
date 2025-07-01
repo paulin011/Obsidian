@@ -1,0 +1,5 @@
+Normative Ethik
+• Mit dem Begriff „Sollen“ verbunden
+• Wie sollen Menschen handeln?
+• Zweck: Prinzipien finden, nach denen wir unser Handeln ausrichten können 
+• Methoden: Vernunft, Logik

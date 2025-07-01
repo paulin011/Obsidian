@@ -1,0 +1,1 @@
+Entwicklung und Ausarbeitung von Strategien und Taktiken für die wirkungsvolle Kommunikation und Verteidigung der eigenen Werte in diversen Konfliktsituationen. Sollte immer weiter bearbeitet und angepasst werden.

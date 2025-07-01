@@ -1,0 +1,1 @@
+Wenn der schätzer genau dem erwarungswert entspricht

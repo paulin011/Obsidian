@@ -1,0 +1,3 @@
+“Quality requirements pertain to a quality concern that is not covered by functional requirements such as performance, availability, security, or reliability”
+
+Ease of use avaliability....

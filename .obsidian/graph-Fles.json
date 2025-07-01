@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Softwaretechnik  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Statistik",
+      "color": {
+        "a": 1,
+        "rgb": 262399
+      }
+    },
+    {
+      "query": "path:\"Unternehmens und wirtschaftsethik\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11206400
+      }
+    },
+    {
+      "query": "path:\"Einführung der BWL\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.9,
+  "nodeSizeMultiplier": 1.12380457380457,
+  "lineSizeMultiplier": 2.16288981288981,
+  "collapse-forces": false,
+  "centerStrength": 0.447916666666667,
+  "repelStrength": 9.27083333333333,
+  "linkStrength": 1,
+  "linkDistance": 206,
+  "scale": 0.22920135941749412,
+  "close": true
+}

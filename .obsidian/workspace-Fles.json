@@ -1,0 +1,306 @@
+{
+  "main": {
+    "id": "cc931e2ba4f96fd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "62e682455440bf14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13cdd1e83e2f65f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Einführung der BWL/Bilanzen Begriffe.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8dbe7c624641858d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unternehmens und Wirtschaftsethik/Pflichtenethik.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1db47d5967aca80d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unternehmens und Wirtschaftsethik/Dictator game.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b9b82934270b18c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Unternehmens und Wirtschaftsethik/Übungen/UWE Uebung 5.pdf"
+              }
+            }
+          },
+          {
+            "id": "392f37b087cef449",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unternehmens und Wirtschaftsethik/Sechs Stufen Moralischer Entwicklung Kohlberg.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f51e855dcfc8575",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unternehmens und Wirtschaftsethik/Preispolitik.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82c094db504b8604",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unternehmens und Wirtschaftsethik/Peter French.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a54e514b3a66756d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unternehmens und Wirtschaftsethik/Ehrlichkeit von Investment-Bankern (Cohn, Fehr, Marechal 2014).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08c4f464dd436339",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unternehmens und Wirtschaftsethik/Triple Bottom Line.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb63bb6dc9edc985",
+    "type": "split",
+    "children": [
+      {
+        "id": "d11f818e32d59ec2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42309414e7ac090e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "e148717ecf02ae35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c721ced54e50cb05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330.5
+  },
+  "right": {
+    "id": "1ae417170b480fad",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea5ae909212031f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b69d1a658cf364a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unternehmens und Wirtschaftsethik/Triple Bottom Line.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f52e512b5b7b3034",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unternehmens und Wirtschaftsethik/Triple Bottom Line.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d99df76808b80725",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "60a40a5b3972628b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unternehmens und Wirtschaftsethik/Triple Bottom Line.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "flashcards-obsidian:Generate flashcards": false
+    }
+  },
+  "active": "08c4f464dd436339",
+  "lastOpenFiles": [
+    "Unternehmens und Wirtschaftsethik/Anki.md",
+    "Unternehmens und Wirtschaftsethik/Social Intuitionist Model Jonatan Haidt.md",
+    "Unternehmens und Wirtschaftsethik/Bounded Ethicality.md",
+    "Unternehmens und Wirtschaftsethik/Ehrlichkeit von Investment-Bankern (Cohn, Fehr, Marechal 2014).md",
+    "Unternehmens und Wirtschaftsethik/Peter French.md",
+    "Unternehmens und Wirtschaftsethik/moralischer Akteur.md",
+    "Unternehmens und Wirtschaftsethik/Übungen/GVV-OB-1128.pdf",
+    "Unternehmens und Wirtschaftsethik/„Diffusion of Being Pivotal and Immoral Outcomes“ von Falk, Neuber und Szech.md",
+    "Unternehmens und Wirtschaftsethik/Bartling B Weber, R A Yao, L 2015 Do Markets Erode Social Responsibility The Quarterly Journal of Economics, 130 1 219 266.md",
+    "Unternehmens und Wirtschaftsethik/Dictator game.md",
+    "Unternehmens und Wirtschaftsethik/Greenwashing.md",
+    "Unternehmens und Wirtschaftsethik/Case Study Epi Pen.md",
+    "Unternehmens und Wirtschaftsethik/Preispolitik.md",
+    "Unternehmens und Wirtschaftsethik/Torelli R Balluchi F Lazzini A 2020 Greenwashing and environmental communication Effects on stakeholders’ perceptions Business Strategy and the Environment, 29 2 407 421.md",
+    "Unternehmens und Wirtschaftsethik/Case Studies.md",
+    "Unternehmens und Wirtschaftsethik/Sechs Stufen Moralischer Entwicklung Kohlberg.md",
+    "Images/Pasted image 20240201141317.png",
+    "Unternehmens und Wirtschaftsethik/Übungen/UWE Uebung 5.pdf",
+    "Unternehmens und Wirtschaftsethik/Pflichtenethik.md",
+    "Statistik/Softwaretechnik/Gesetzesformel anwenden.md",
+    "Unternehmens und Wirtschaftsethik/Kant.md",
+    "Einführung der BWL/St. Galler Management Modell.md",
+    "Einführung der BWL/Vermögen.md",
+    "Einführung der BWL/Kapital.md",
+    "Statistik/Softwaretechnik/Equivalence Class Testing.md",
+    "Statistik/Softwaretechnik/Software Testing.md",
+    "Einführung der BWL/Bilanzveränderung.md",
+    "Einführung der BWL/Bilanzen Begriffe.md",
+    "Excalidraw/Drawing 2024-01-19 16.22.17.excalidraw.md",
+    "Unternehmens und Wirtschaftsethik/Lectures/UWE_WiSe23_Vorlesung 4_Deskriptive Ethik_V2.pdf",
+    "Unternehmens und Wirtschaftsethik/Lectures/UWE_WiSe23_Vorlesung 6_Unternehmensethische Konzepte_Teil2.pdf",
+    "Unternehmens und Wirtschaftsethik/Lectures/UWE_WiSe23_Vorlesung 5_Unternehmensethische Konzepte_Teil1.pdf",
+    "Unternehmens und Wirtschaftsethik/Lectures/UWE_WiSe23_Vorlesung 8_Bereichsethiken_Marketing.pdf",
+    "Unternehmens und Wirtschaftsethik/Lectures/UWE_WiSe23_Vorlesung 3_Tugendethik.pdf",
+    "Unternehmens und Wirtschaftsethik/Lectures/UWE_WiSe23_Vorlesung 2_Normative-Grundlagen-I.pdf",
+    "Unternehmens und Wirtschaftsethik/Motivated memory in dictator games.pdf",
+    "Statistik/Softwaretechnik/Lectures/13_Design Patterns II.pdf",
+    "Images/Pasted image 20240131124001.png",
+    "Images/Pasted image 20240131123906.png",
+    "Images/Pasted image 20240131123840.png",
+    "Images/Pasted image 20240131123819.png",
+    "Images/Pasted image 20240131123716.png",
+    "Images/Pasted image 20240131123637.png",
+    "Images/Pasted image 20240131123605.png",
+    "Images/Pasted image 20240130152911.png",
+    "Images/Pasted image 20240130151821.png",
+    "Unternehmens und wirtschaftsethik/Lectures/Untitled.canvas"
+  ]
+}

@@ -1,0 +1,1 @@
+Ideologische Bestrebung soziale Gleichheit zu erlangen F

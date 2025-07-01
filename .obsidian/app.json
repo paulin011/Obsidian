@@ -1,0 +1,14 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Alte semester/Images",
+  "newFileLocation": "current",
+  "readableLineLength": false,
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "ofessionals",
+    "Wachstumskritisch",
+    "shk",
+    "Erlangen-Nürnburg"
+  ],
+  "promptDelete": false
+}
