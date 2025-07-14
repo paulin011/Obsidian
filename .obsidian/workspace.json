@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "4.X_Fehlende_Begriffe_Organisationsgestaltung_Karteikarten"
             }
+          },
+          {
+            "id": "81ed8854cbace9ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Corporate Development/Organizational Design and Management/Ursache Wirkungskette.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Ursache Wirkungskette"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,11 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aced6bb47619dc3e",
+  "active": "81ed8854cbace9ec",
   "lastOpenFiles": [
-    "Corporate Development/Organizational Design and Management/4. Organisationsgestaltung.md",
+    "Alte semester/Images/Pasted image 20250711161136.png",
+    "Alte semester/Images/Pasted image 20250711154833.png",
+    "Alte semester/Images/Pasted image 20250711154805.png",
+    "Alte semester/Images/Pasted image 20250711154744.png",
     "Corporate Development/Organizational Design and Management/4.X_Fehlende_Begriffe_Organisationsgestaltung_Karteikarten.md",
-    "Corporate Development/Organizational Design and Management/Untitled.md",
+    "Corporate Development/Organizational Design and Management/Ursache Wirkungskette.md",
+    "Corporate Development/Organizational Design and Management/4. Organisationsgestaltung.md",
     "Corporate Development/Organizational Design and Management/4.2 Organisationsstrukturen.md",
     "Corporate Development/Organizational Design and Management/Organisationsgestaltung - Steuerung und Prozesse.md",
     "Corporate Development/Organizational Design and Management/4.4 Agile Organisationsformen.md",
@@ -207,7 +227,6 @@
     "Corporate Development/Grundlagen/Deutscher Corporate Governance Kodex (DCGK) - Flashcards.md",
     "Corporate Development/Grundlagen/Mitbestimmungsgesetze - Flashcards.md",
     "Corporate Development/Grundlagen/Gains From Trade.md",
-    "Corporate Development/Grundlagen/Grundbegriff.md",
     "Corporate Development/Grundlagen/Gains From Trade.md.partial",
     "Corporate Development/Grundlagen/Individuen und Transaktionen.md.partial",
     "Untitled 1",
@@ -224,9 +243,6 @@
     "Alte semester/Images/Pasted image 20250209150039.png",
     "Alte semester/Images/Pasted image 20250130151925.png",
     "Alte semester/Images/Pasted image 20250130151834.png",
-    "Alte semester/Images/Pasted image 20250130151807.png",
-    "Alte semester/Images/Pasted image 20241204133147.png",
-    "Alte semester/Images/Pasted image 20241204133040.png",
     "Unternehmens und wirtschaftsethik/Lectures/Untitled.canvas"
   ]
 }
