@@ -33,3 +33,15 @@ Die Maßnahme sollte durchgeführt werden, wenn die Wertsteigerung des Mitarbeit
 Geben Sie die Investitionsbedingung für ein Unternehmen an, das eine Schulungsmaßnahme finanziert. #card
 ΔW1 - ΔL1 > K
 ^1751461053989
+
+Humankapitaltheorie (Gary Becker) (2 arten von Humankapital) #card 
+•Allgemeines Humankapital:
+- Abwerbegefahr besonders groß
+- Trainings führen eher zu Gehaltssteigerungen
+- Sehr starker Wettbewerb: Gehaltssteigerungen bis zur Höhe von W1
+- Finanzierung durch niedrigere (Einstiegs-)Gehälter
+•Spezifisches Humankapital:
+- Auch hier können Arbeitnehmer in Gehaltsverhandlungen höhere
+Gehälter erzielen
+- Jedoch Abwerbegefahr geringer
+- Für das Unternehmen lohnt eine Beteiligung an der Investition stärker
