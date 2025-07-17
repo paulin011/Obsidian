@@ -3,7 +3,7 @@ cards-deck: Corporate Development::Personalmanagement
 ---
 
 Was ist "Humankapital" im ökonomischen Sinne? #card
-Das in einer Person verkörperte Wissen und die Fähigkeiten, die sie produktiv machen.
+**Humankapital** bezeichnet die Summe der Fähigkeiten, Kenntnisse, Erfahrungen und Qualifikationen eines Menschen, die erwerbswirtschaftlich nutzbar sind und zu seiner Produktivität beitragen. Es ist eine Form von Kapital, das im Menschen selbst steckt.
 ^1751461053962
 
 Was ist die Kernidee der Humankapitaltheorie in Bezug auf Bildung? #card
