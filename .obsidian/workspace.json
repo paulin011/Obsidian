@@ -4,176 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "d82c3d26414b628d",
+        "id": "f4688409b5c770d3",
         "type": "tabs",
         "children": [
           {
-            "id": "aced6bb47619dc3e",
+            "id": "64f7f5cfbd6ced3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Corporate Development/Organizational Design and Management/4.X_Fehlende_Begriffe_Organisationsgestaltung_Karteikarten.md",
+                "file": "Corporate Development/Grundlagen/Mitbestimmungsgesetze - Flashcards.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "4.X_Fehlende_Begriffe_Organisationsgestaltung_Karteikarten"
+              "title": "Mitbestimmungsgesetze - Flashcards"
             }
           },
           {
-            "id": "81ed8854cbace9ec",
+            "id": "3939c33296d560ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Corporate Development/Organizational Design and Management/Ursache Wirkungskette.md",
+                "file": "Corporate Development/Organizational Design and Management/Organisationsgestaltung - Steuerung und Prozesse.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Ursache Wirkungskette"
-            }
-          },
-          {
-            "id": "8ea6e7bdcf00d1ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corporate Development/Organizational Design and Management/Vor- und Nachteile der Divisionalorganisation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Vor- und Nachteile der Divisionalorganisation"
-            }
-          },
-          {
-            "id": "e84eda1df658b04b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corporate Development/Organizational Design and Management/Vor- und Nachteile der Divisionalorganisation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Vor- und Nachteile der Divisionalorganisation"
-            }
-          },
-          {
-            "id": "87f9ae8c9d9145b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corporate Development/Organizational Design and Management/Vor- und Nachteile der Divisionalorganisation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Vor- und Nachteile der Divisionalorganisation"
-            }
-          },
-          {
-            "id": "25ae2643cc5c33c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corporate Development/Organizational Design and Management/Funktionalorganisation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Funktionalorganisation"
-            }
-          },
-          {
-            "id": "54037dae477a6b05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corporate Development/Organizational Design and Management/Wachstumsstrategien (Vier-Felder-Matrix von Ansoff).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Wachstumsstrategien (Vier-Felder-Matrix von Ansoff)"
-            }
-          },
-          {
-            "id": "5b61654cd2c4b88f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corporate Development/Organizational Design and Management/Wachstumsstrategien (Vier-Felder-Matrix von Ansoff).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Wachstumsstrategien (Vier-Felder-Matrix von Ansoff)"
-            }
-          },
-          {
-            "id": "a7a64ce725eb28cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corporate Development/Organizational Design and Management/Konstruktion der BCG-Matrix.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Konstruktion der BCG-Matrix"
-            }
-          },
-          {
-            "id": "19a63a853a0363cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corporate Development/Organizational Design and Management/Konstruktion der BCG-Matrix.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Konstruktion der BCG-Matrix"
-            }
-          },
-          {
-            "id": "11f196a4e578c34f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corporate Development/Personalmanagement/03_Humankapital_Karten.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "03_Humankapital_Karten"
+              "title": "Organisationsgestaltung - Steuerung und Prozesse"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1ae417170b480fad",
@@ -329,21 +195,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11f196a4e578c34f",
+  "active": "3939c33296d560ce",
   "lastOpenFiles": [
-    "Corporate Development/Organizational Design and Management/Ursache Wirkungskette.md",
+    "Visualisierung/Prototypische_Eigenschaft_Wahrnehmung_Wares_Modell.md",
+    "Corporate Development/Grundlagen/Leistungsindikatoren.md",
+    "Corporate Development/Grundlagen/Corporate Governance Kodex.md",
+    "Corporate Development/Grundlagen/Mitbestimmungsgesetze - Flashcards.md",
+    "Corporate Development/Personalmanagement/04_Performance_Management_Karten.md",
+    "Corporate Development/Grundlagen/Mitbestimmungsgesetz Grafik.md",
+    "Alte semester/Images/Pasted image 20250717114502.png",
     "Corporate Development/Organizational Design and Management/Messen der Strategieimplementierung.md",
+    "Corporate Development/Organizational Design and Management/Wachstumsstrategien (Vier-Felder-Matrix von Ansoff).md",
     "Corporate Development/Organizational Design and Management/Konstruktion der BCG-Matrix.md",
+    "Corporate Development/Organizational Design and Management/Funktionalorganisation.md",
+    "Corporate Development/Organizational Design and Management/Vor- und Nachteile der Divisionalorganisation.md",
+    "Corporate Development/Organizational Design and Management/4.X_Fehlende_Begriffe_Organisationsgestaltung_Karteikarten.md",
+    "Corporate Development/Organizational Design and Management/Ursache Wirkungskette.md",
+    "Corporate Development/Personalmanagement/03_Humankapital_Karten.md",
     "Corporate Development/Organizational Design and Management/Stategische Managementprozess.md",
     "Alte semester/Images/Pasted image 20250715174525.png",
     "Alte semester/Images/Pasted image 20250715174325.png",
     "Alte semester/Images/Pasted image 20250715174307.png",
-    "Corporate Development/Organizational Design and Management/Wachstumsstrategien (Vier-Felder-Matrix von Ansoff).md",
-    "Corporate Development/Organizational Design and Management/Funktionalorganisation.md",
     "Alte semester/Images/Pasted image 20250715174051.png",
-    "Corporate Development/Organizational Design and Management/Vor- und Nachteile der Divisionalorganisation.md",
     "Corporate Development/Organizational Design and Management/Funktionalorganisation2.md",
-    "Corporate Development/Organizational Design and Management/4.X_Fehlende_Begriffe_Organisationsgestaltung_Karteikarten.md",
     "Corporate Development/Grundlagen/Individuen und Transaktionen.md",
     "Alte semester/Images/Pasted image 20250711161136.png",
     "Alte semester/Images/Pasted image 20250711154833.png",
@@ -356,17 +230,10 @@
     "Corporate Development/Organizational Design and Management/4.3 Geschäftsprozessorganisation.md",
     "Corporate Development/Organizational Design and Management",
     "Corporate Development/Personalmanagement/hallo.md",
-    "Corporate Development/Personalmanagement/04_Performance_Management_Karten.md",
-    "Corporate Development/Personalmanagement/03_Humankapital_Karten.md",
     "Corporate Development/Personalmanagement/02_Signaling_Theorie_Karten.md",
     "Corporate Development/Personalmanagement/01_Personalauswahl_Karten.md",
     "Corporate Development/Personalmanagement",
     "Corporate Development/Grundlagen/Konstruktion der BCG-Matrix (Formeln).md",
-    "Corporate Development/Grundlagen/Marktlebenszyklus und BCG-Matrix.md",
-    "Corporate Development/Grundlagen/Leistungsindikatoren.md",
-    "Corporate Development/Grundlagen/Five Forces Modell.md",
-    "Corporate Development/Grundlagen/Untitled.md",
-    "Corporate Development/Grundlagen/Value Proposition und Wettbewerbsvorteil.md",
     "Corporate Development/Grundlagen/Gains From Trade.md.partial",
     "Corporate Development/Grundlagen/Individuen und Transaktionen.md.partial",
     "Untitled 1",
@@ -377,7 +244,6 @@
     "Untitled.canvas",
     "Alte semester/Images/Tag4_04-IPv4IPv6Netzwerksicherheit_Printversion.pdf",
     "Alte semester/Images/20240222_Do_Uebung_3_Buffer_Overflow.pdf",
-    "Alte semester/Images/Pasted image 20250209150950.png",
     "Unternehmens und wirtschaftsethik/Lectures/Untitled.canvas"
   ]
 }

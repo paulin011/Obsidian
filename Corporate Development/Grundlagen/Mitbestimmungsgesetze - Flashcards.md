@@ -21,12 +21,10 @@ Der Aufsichtsratsvorsitzende hat das doppelte Stimmrecht bei Stimmengleichheit. 
 ^1750937222853
 Die paritätische Besetzung des Aufsichtsrats gilt für Unternehmen mit mehr als {2.000} Mitarbeitern. #card
 ^1750937222854
-^1750937222856
-
 ## Drittelbeteiligungsgesetz (2004)
 
 Für welche Unternehmen gilt das Drittelbeteiligungsgesetz (2004)?::Für Unternehmen mit in der Regel mehr als 500 und bis zu 2.000 Mitarbeitern. #card ^1750937222868
 Wie ist die Sitzverteilung im Aufsichtsrat nach dem Drittelbeteiligungsgesetz?::Ein Drittel der Aufsichtsratssitze wird von Arbeitnehmervertretern besetzt. #card ^1750937222870
 In einem Unternehmen mit 800 Mitarbeitern gilt das ==Drittelbeteiligungsgesetz==. #card
 ^1750937222872
-^1750937222874
+

@@ -79,7 +79,8 @@ Eine klare Definition der Kompetenzverteilung der übergeordneten Stellen.
 ^1752156062905
 
 Wie entscheiden Objektvorgesetzte in einer Matrixorganisation? #card
-Über das Was? und das Wann?
+In einer Matrixorganisation entscheiden Objektvorgesetzte über das **"Was"** (Ziele, Inhalte, Ergebnisse) ihres Projekts oder Produkts. Sie haben **fachliche Weisungsbefugnis**.
+Die **"Wie"-Frage** (Ausführung, Methoden) und die **Ressourcenzuteilung** (welche Mitarbeiter) erfolgen oft in Abstimmung mit den Funktionsvorgesetzten. Ihre Entscheidungen basieren stark auf **Koordination, Kommunikation und Konsensfindung**, da sie keine direkte disziplinarische Gewalt über die zugewiesenen Mitarbeiter haben.
 ^1752156062907
 
 Wie entscheiden Funktionsvorgesetzte in einer Matrixorganisation? #card
